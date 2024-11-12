@@ -2,6 +2,8 @@
 
 This Repo contains the code to reproduce the results and figures in manuscript.
 
+Official `Scouter` package repository: [Link](https://github.com/PancakeZoy/scouter).
+
 ## Folder Organization
 
 | Name | Content |
