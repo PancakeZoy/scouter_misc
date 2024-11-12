@@ -1,4 +1,4 @@
-# scouter_misc
+# Scouter Reproducibility
 
 This Repo contains the code to reproduce the results and figures in manuscript.
 
