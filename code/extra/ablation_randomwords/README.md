@@ -1,0 +1,1 @@
+This folder evaluates the performance of `Scouter` with less informative gene embeddings by randomly sampling subset of words in the text summary.

@@ -2,7 +2,9 @@
 
 | Name | Content |
 |-----------------|-------------|
-| [Analysis](Analysis) | The folder of notebooks for the model evaluation and comparison|
-| [Scouter](Scouter) | The folder of codes for `Scouter`'s training on all datasets|
-| [GEARS](GEARS) | The folder of codes for `GEARS`'s training on all datasets|
-| [biolord](biolord) | The folder of codes for `biolord`'s training on all datasets|
+| [Scouter](Scouter) |`Scouter` training on all datasets|
+| [GEARS](GEARS) | `GEARS`' training on all datasets|
+| [biolord](biolord) |`biolord`' training on all datasets|
+| [extra](extra) | Generates results necessary for figure plotting.|
+| [plot_main](plot_main) | Reproduces figures in the main text|
+| [plot_supp](plot_supp) | Reproduces figures in the supplementary materials|

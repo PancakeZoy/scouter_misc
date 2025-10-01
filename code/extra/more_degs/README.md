@@ -1,0 +1,1 @@
+This folder evaluates the performance of `Scouter` with evaluating on more DEGs.

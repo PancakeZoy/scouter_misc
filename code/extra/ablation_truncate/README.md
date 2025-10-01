@@ -1,0 +1,1 @@
+This folder evaluates the performance of `Scouter` with less informative gene embeddings by truncating the text summary.
